@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/VistaVincent/Plagiarism-Checker.git```.
+1. Git Clone the project
 
 2. Move to the base directory:
 
